@@ -3,5 +3,16 @@
   }
 
 h5 {
-    color :blue;
+    color :rgb(103, 103, 171);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+p {
+
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.btn {
+    background-color: aliceblue;
+    color: rgb(103, 103, 171);
 }
