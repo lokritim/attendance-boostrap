@@ -5,6 +5,9 @@
 h5 {
     color :rgb(103, 103, 171);
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: azure;
+    padding:10px ;
+    border-radius: 10px;
 }
 
 p {
@@ -19,4 +22,13 @@ p {
 
 img {
     height: 215px;
+}
+.card-body {
+    background-image: url("background.jpg");
+   
+}
+
+.card-body>p{
+    background-color: aliceblue;
+    padding: 20px;
 }
