@@ -16,3 +16,7 @@ p {
     background-color: aliceblue;
     color: rgb(103, 103, 171);
 }
+
+img {
+    height: 215px;
+}
